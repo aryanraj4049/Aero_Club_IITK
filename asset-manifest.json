@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Aero_Club_IITK/static/css/main.7a947b3c.css",
-    "main.js": "/Aero_Club_IITK/static/js/main.f9189ea9.js",
+    "main.js": "/Aero_Club_IITK/static/js/main.733197f1.js",
     "static/js/787.b075e410.chunk.js": "/Aero_Club_IITK/static/js/787.b075e410.chunk.js",
     "static/media/team-bg.mp4": "/Aero_Club_IITK/static/media/team-bg.1a91cb3b32a539842dba.mp4",
     "static/media/Piyush.jpg": "/Aero_Club_IITK/static/media/Piyush.2c9ce5c2c721b7f2cc73.jpg",
@@ -50,11 +50,11 @@
     "static/media/envelope-solid.svg": "/Aero_Club_IITK/static/media/envelope-solid.e097336f4e33827be942e2c35296dbca.svg",
     "static/media/square-facebook.svg": "/Aero_Club_IITK/static/media/square-facebook.bb281c7fe5085e0a931d100e72878110.svg",
     "main.7a947b3c.css.map": "/Aero_Club_IITK/static/css/main.7a947b3c.css.map",
-    "main.f9189ea9.js.map": "/Aero_Club_IITK/static/js/main.f9189ea9.js.map",
+    "main.733197f1.js.map": "/Aero_Club_IITK/static/js/main.733197f1.js.map",
     "787.b075e410.chunk.js.map": "/Aero_Club_IITK/static/js/787.b075e410.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7a947b3c.css",
-    "static/js/main.f9189ea9.js"
+    "static/js/main.733197f1.js"
   ]
 }
