@@ -75,11 +75,9 @@ function App() {
       <Router>
         <div>
           <Header iitk={iitk} snt={snt} aero={aero} />
-          <Route exact path="/" component={Homepage}>
-              <Homepage bg={bg} bg2={bg2} bgvideo={bgvideo} />
-              <About bgvideo={bgvideo} />
-              <Glance slide1={slide1} slide2={slide2} slide3={slide3} />
-            </Route>
+           <Homepage bg={bg} bg2={bg2} bgvideo={bgvideo} />
+           <About bgvideo={bgvideo} />
+           <Glance slide1={slide1} slide2={slide2} slide3={slide3} />
           <Switch>
             <Route path='/projects'>
               <Project bgvideo={bgvideo} balsa={balsa} />
