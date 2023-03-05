@@ -79,6 +79,7 @@ function App() {
            <About bgvideo={bgvideo} />
            <Glance slide1={slide1} slide2={slide2} slide3={slide3} />
           <Switch>
+           <Route exact path="/" component={Homepage} />
             <Route path='/projects'>
               <Project bgvideo={bgvideo} balsa={balsa} />
             </Route>
